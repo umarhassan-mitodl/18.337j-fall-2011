@@ -1,0 +1,67 @@
+{
+  "term": "Fall",
+  "year": "2011",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Computation"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Theory of Computation"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Computer Design and Engineering"
+    ]
+  ],
+  "legacy_uid": "e21d1a87-dd1a-04c0-9674-17106bc670f4",
+  "instructors": {
+    "content": [
+      "4bd885ba-75e1-10e9-f75f-124e2da66800"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b2fc6455-7ffc-6ce5-8379-0290b143a089",
+    "website": "18-337j-parallel-computing-fall-2011"
+  },
+  "course_title": "Parallel Computing",
+  "course_description": "This is an advanced interdisciplinary introduction to applied parallel computing on modern supercomputers. It has a hands-on emphasis on understanding the realities and myths of what is possible on the world's fastest machines. We will make prominent use of the {{% resource_link \"94d67c88-da2f-40b7-8a40-088dd891b634\" \"Julia Language\" %}}, a free, open-source, high-performance dynamic programming language for technical computing.\n",
+  "department_numbers": [
+    "18",
+    "6"
+  ],
+  "extra_course_numbers": "6.338J",
+  "primary_course_number": "18.337J",
+  "course_image_thumbnail": {
+    "content": "ca2e2fa6-51c8-37e5-43d6-ed4b32951e4a",
+    "website": "18-337j-parallel-computing-fall-2011"
+  },
+  "learning_resource_types": [
+    "Projects with Examples",
+    "Programming Assignments"
+  ],
+  "site_uid": "001028ad-b64c-4db9-9eb7-54ea5b56b350",
+  "site_short_id": "18.337j-fall-2011",
+  "site_url_path": "courses/18-337j-parallel-computing-fall-2011",
+  "title": "Course Metadata"
+}
